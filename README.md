@@ -1,5 +1,5 @@
 # Fugu14 - Untethered iOS 14 Jailbreak
-##change
+
 Fugu14 is an (incomplete) iOS 14 Jailbreak, including an untether (persistence), kernel exploit, kernel PAC bypass and PPL bypass.
 The CVE numbers of the vulnerabilities are: CVE-2021-30740, CVE-2021-30768, CVE-2021-30769, CVE-2021-30770 and CVE-2021-30773.
 
